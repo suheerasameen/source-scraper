@@ -21,19 +21,19 @@
     },
     "license": "SEE LICENSE ON https://cinepro.mintlify.app/general-information/license#in-a-nutshell",
     "dependencies": {
-        "axios": "^1.12.2",
+        "axios": "^1.15.0",
         "base-64": "^1.0.0",
-        "cheerio": "^1.1.2",
+        "cheerio": "^1.2.0",
         "cloudflare-scraper": "^2.0.0",
-        "cors": "^2.8.5",
+        "cors": "^2.8.6",
         "crypto-js": "^4.2.0",
-        "dotenv": "^17.2.3",
-        "express": "^5.1.0",
+        "dotenv": "^17.4.2",
+        "express": "^5.2.1",
         "node-cache": "^5.1.2",
         "node-fetch": "^3.3.2",
-        "prettier": "^3.6.2",
+        "prettier": "^3.8.2",
         "unpacker": "^1.0.1",
-        "wyzie-lib": "^2.2.5"
+        "wyzie-lib": "^2.5.1"
     },
     "keywords": [
         "cinepro",
